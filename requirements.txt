@@ -1,0 +1,6 @@
+python-dotenv==1.0.0
+pywebio==1.8.2
+pywebio-battery==0.5.0
+tornado==6.3.2 ; python_version >= '3.8'
+ua-parser==0.18.0
+user-agents==2.2.0
